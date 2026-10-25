@@ -184,6 +184,7 @@ object LocaleUtils {
             return resources.getString(R.string.subtype_no_language)
 
         val overrideResId = when (languageTag) {
+            "be-Latn" -> R.string.subtype_be_Latn
             "en-US" -> R.string.subtype_en_US
             "en-GB" -> R.string.subtype_en_GB
             "es-US" -> R.string.subtype_es_US

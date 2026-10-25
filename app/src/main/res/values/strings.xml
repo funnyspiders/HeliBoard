@@ -434,6 +434,8 @@
     <string name="custom_emoji_font">Set custom emoji font from file</string>
     <!-- Message when clearing recent emojis by long pressing the recents tab icon -->
     <string name="recent_emojis_cleared">Cleared recent emojis</string>
+    <!-- Description for Belarusian (Latin) https://en.wikipedia.org/wiki/Belarusian_Latin_alphabet keyboard subtype -->
+    <string name="subtype_be_Latn">Belarusian (Latin)</string>
     <!-- Description for English (UK) keyboard subtype
          (UK) should be an abbreviation of United Kingdom. -->
     <string name="subtype_en_GB">English (UK)</string>

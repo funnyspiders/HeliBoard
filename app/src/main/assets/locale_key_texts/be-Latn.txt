@@ -1,0 +1,10 @@
+[popup_keys]
+u ŭ
+s ś š
+l ł
+z ź ž
+c ć č
+n ń
+
+[tlds]
+by
